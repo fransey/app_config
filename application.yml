@@ -1,0 +1,4 @@
+message: application config
+color: FF68CF
+server:
+  port: 7889
