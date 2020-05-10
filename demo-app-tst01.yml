@@ -1,0 +1,4 @@
+message: TST01 config - Test 123
+color: FF68CF
+server:
+  port: 7889

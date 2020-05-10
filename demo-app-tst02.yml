@@ -1,0 +1,4 @@
+message: TST02 config
+color: F4FB0D
+server:
+  port: 7889
